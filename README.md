@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlts2&show_icons=true)
+[![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
