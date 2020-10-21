@@ -1,9 +1,9 @@
 ### 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlts2&show_icons=true)
+[![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlts2&hide=javascript,html,css)
 
 
 <!--
