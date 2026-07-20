@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/swift/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/swift/2-most-commit-language.svg)
-```
-
-    

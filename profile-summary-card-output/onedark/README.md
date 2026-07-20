@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/onedark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/hlts2/hlts2/main/profile-summary-card-output/onedark/2-most-commit-language.svg)
-```
-
-    
